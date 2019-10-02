@@ -1055,6 +1055,14 @@ const emojiItems = [
         itemLink: "https://www.imdb.com/title/tt0758752/"
     },
     {
+        title: "Lucifer",
+        emojiImgs: "😈🕵🏻‍♀️🔫🗡️🚔",
+        genres: ["crime", "drama", "fantasy"],
+        itemLink: "https://www.imdb.com/title/tt4052886/",
+        type: "tv",
+        year: 2015
+    },
+    {
         title: "M*A*S*H",
         emojiImgs: "😷🎖️😂🇰🇷",
         genres: ["comedy", "drama", "war"],
